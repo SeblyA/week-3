@@ -5,6 +5,13 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/payrollCalculator/pom.xml" />
+        <option value="$PROJECT_DIR$/format-dates/pom.xml" />
+        <option value="$PROJECT_DIR$/searchLogger/pom.xml" />
+        <option value="$PROJECT_DIR$/searchInventory/pom.xml" />
+        <option value="$PROJECT_DIR$/MyBirthday/pom.xml" />
+        <option value="$PROJECT_DIR$/Store/pom.xml" />
+        <option value="$PROJECT_DIR$/OnlineStore/pom.xml" />
+        <option value="$PROJECT_DIR$/Workdhop3/pom.xml" />
       </list>
     </option>
   </component>

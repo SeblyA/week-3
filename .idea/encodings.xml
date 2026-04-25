@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/MyBirthday/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyBirthday/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OnlineStore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OnlineStore/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Store/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Store/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Workshop3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Workshop3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/format-dates/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/format-dates/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/searchInventory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/searchInventory/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/searchLogger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/searchLogger/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
